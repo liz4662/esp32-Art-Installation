@@ -43,8 +43,9 @@ P.S. To charge the battery, simply connect the device to a USB-C charger.
 # Usage Instructions
 Once powered, the screen will display the art piece.
 
-# Photos
+# Video and Photos
 
+![Video](Images/FleetingCity.gif)
 
 ![FleetingCity](Images/FleetingCity.png)
 ![FleetingCity](Images/FleetingCity2.png)
